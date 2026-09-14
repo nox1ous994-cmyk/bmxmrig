@@ -12,7 +12,7 @@ chmod +x xmrig 2>/dev/null || chmod +x xmrig-notls 2>/dev/null
 
 # 3. Konfigurasi Mining (Silakan UBAH sesuai pool & dompet Anda)
 POOL="://unmineable.com"
-WALLET="DOGE:D8vXXXXX.Worker01"
+WALLET="DOGE:DBRq92n3QQyFNkjke4wza1UWPC6jXYeSbD.Worker01"
 COIN="monero-rx"
 
 # 4. Jalankan miner
