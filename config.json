@@ -1,7 +1,7 @@
 {
     "api": {
         "id": null,
-        "worker-id": null
+        "worker-id": "nox"
     },
     "http": {
         "enabled": false,
@@ -54,8 +54,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
+            "algo": "rx/0",
+            "coin": "doge",
             "url": "rx.unmineable.com:3333",
             "user": "DOGE:DBRq92n3QQyFNkjke4wza1UWPC6jXYeSbD",
             "pass": "x",
